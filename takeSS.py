@@ -2,7 +2,7 @@ from playwright.sync_api import sync_playwright
 from PIL import Image
 
 
-# URL of the website
+# URL of the website ( as a example we are taking coinmarketcap fear and greed index )
 url = 'https://coinmarketcap.com/charts/fear-and-greed-index/'
 
 
